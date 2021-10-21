@@ -1,0 +1,23 @@
+{
+  "name": "24.vue-book-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woojungyang/2021-sc-app-24-veu-book-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woojungyang/2021-sc-app-24-veu-book-deploy/issues"
+  },
+  "homepage": "https://github.com/woojungyang/2021-sc-app-24-veu-book-deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
